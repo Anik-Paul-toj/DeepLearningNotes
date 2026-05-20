@@ -1,4 +1,4 @@
-# Deep Learning Journey 🚀
+# Deep Learning Journey 
 
 This repository contains my learning journey, notes, code implementations, and projects from studying Deep Learning using the **100 Days of Deep Learning** playlist by CampusX.
 
